@@ -4,11 +4,17 @@ This project is a sample weekly project, I have made to avoid repetition and pra
 
 
 #**Tech Stack**,
+
  .Numpy
+ 
  .if-elif-else
+ 
  .loop
+ 
  .function
+ 
  .operators
+ 
 Author,
 
 S. Kaavyasri
